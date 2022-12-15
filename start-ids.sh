@@ -1,5 +1,5 @@
 
-
+pkg install p7zip -y
 
 7z x ids-inf.7z -pnidhin123
 cd ids-inf
