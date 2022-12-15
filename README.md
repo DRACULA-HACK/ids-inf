@@ -1,4 +1,22 @@
 # ids-inf
+this tool is created for ids
+in this script we has added information gathering 
+and number ban unban + mail sending script 
+you can track any number and take its information 
+and it also have ip phishing and tracking options
+and fb , insta information gathering .
+This tool is created by shell script and python 
+# feuters
+* phone number information gathering 
+#
+* ip tracker and ip zphisher
+#
+* number ban and unban ne
+#
+* SOCIAL MEDIA information gathering 
+#
+* mail render
+#
 
 # for termux users
 
