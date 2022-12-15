@@ -10,7 +10,7 @@ This tool is created by shell script and python
 <img src="https://github.com/DRACULA-HACK/ids-inf/blob/main/Screenshot_2022-12-15-17-09-55-715_com.termux.jpg" alt="alternatetext">
 
 #
-# feuters
+# Features
 * phone number information gathering 
 #
 * ip tracker and ip zphisher
