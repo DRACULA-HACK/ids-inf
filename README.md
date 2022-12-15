@@ -6,6 +6,8 @@ you can track any number and take its information
 and it also have ip phishing and tracking options
 and fb , insta information gathering .
 This tool is created by shell script and python 
+
+<img src="https://github.com/DRACULA-HACK/ids-inf/blob/main/Screenshot_2022-12-15-17-09-55-715_com.termux.jpg" alt="alternatetext">
 # feuters
 * phone number information gathering 
 #
