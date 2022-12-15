@@ -30,4 +30,8 @@ after extracting the files you can run `ids.sh`
 <a href="https://m.youtube.com/channel/UCcuJQhSiU80wigeMyHu9r_g">YOU TUBE </a>
 #
 # WHATSAPP
-<a href="wa.me//+916235369260">WHATSAPP </a>
+<a href="https://wa.me//+916235369260">WHATSAPP </a>
+#
+created 
+by 
+master-hack
