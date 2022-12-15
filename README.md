@@ -11,3 +11,9 @@
 #
 • ` bash start-ids.sh `
 
+#
+after extracting the files you can run `ids.sh` 
+
+#
+` bash ids.sh `
+
