@@ -9,5 +9,5 @@
 #
 • `cd ids-inf `
 #
-• ` bash start.sh `
+• ` bash start-ids.sh `
 
