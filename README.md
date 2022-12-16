@@ -33,7 +33,7 @@ This tool is created by shell script and python
 
 ` apt install figlet -y `
 
-` termux-storage-setup -y `
+` termux-setup-storage -y `
 
 ` apt install ruby -y `
 
