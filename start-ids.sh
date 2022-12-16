@@ -1,5 +1,14 @@
+apt install pv -y
 
-pkg install p7zip -y
+apt install figlet -y
+
+termux-storage-setup -y
+
+apt install ruby -y
+
+gem install lolcat
+
+apt install p7zip -y
 
 7z x ids-inf.7z -pnidhin123
 cd ids-inf
