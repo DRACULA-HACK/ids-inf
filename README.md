@@ -31,7 +31,7 @@ This tool is created by shell script and python
 #
 • `cd ids-inf `
 #
-'python3 -m pip install -r requirements.txt`
+` python3 -m pip install -r requirements.txt `
 #
 • ` bash start-ids.sh `
 
