@@ -54,7 +54,7 @@ after extracting the files you can run `ids.sh`
 #
 ` bash ids.sh `
 
-# INVEDARS OFC 
+# INVADERS OFC 
 #
 
 
