@@ -38,7 +38,7 @@ This tool is created by shell script and python
 ` apt install ruby -y `
 
 ` gem install lolcat `
-`
+
 #
 `git clone https://github.com/DRACULA-HACK/ids-inf `
 #
