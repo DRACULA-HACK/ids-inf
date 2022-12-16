@@ -27,6 +27,19 @@ This tool is created by shell script and python
 # 
 
 # TERMUX 
+
+
+` apt install pv -y `
+
+` apt install figlet -y `
+
+` termux-storage-setup -y `
+
+` apt install ruby -y `
+
+` gem install lolcat `
+`
+#
 `git clone https://github.com/DRACULA-HACK/ids-inf `
 #
 • `cd ids-inf `
