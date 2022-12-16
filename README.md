@@ -42,11 +42,11 @@ This tool is created by shell script and python
 #
 `git clone https://github.com/DRACULA-HACK/ids-inf `
 #
-• `cd ids-inf `
+* `cd ids-inf `
 #
 ` python3 -m pip install -r requirements.txt `
 #
-• ` bash start-ids.sh `
+* ` bash start-ids.sh `
 
 #
 after extracting the files you can run `ids.sh` 
