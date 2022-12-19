@@ -79,3 +79,9 @@ after extracting the files you can run `ids.sh`
 created 
 by 
 master-hack
+
+#
+
+<img src="https://github.com/DRACULA-HACK/ids-inf/blob/main/IMG_20221219_104937.jpg" alt="alternatetext">
+
+#
