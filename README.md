@@ -7,7 +7,7 @@ and it also have ip phishing and tracking options
 and fb , insta information gathering .
 This tool is created by shell script and python 
 
-<img src="https://github.com/DRACULA-HACK/ids-inf/blob/main/Screenshot_2022-12-15-17-09-55-715_com.termux.jpg" alt="alternatetext">
+<img src="https://github.com/DRACULA-HACK/ids-inf/blob/main/IMG_20221219_105003.jpg" alt="alternatetext">
 
 #
 # Features
