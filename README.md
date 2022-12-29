@@ -19,7 +19,7 @@ This tool is created by shell script and python
 #
 * SOCIAL MEDIA information gathering 
 #
-* mail render
+* mail sender
 #
 
 # for termux users
