@@ -5,7 +5,8 @@ apt install figlet -y
 termux-storage-setup -y
 
 apt install ruby -y
-
+apt install python -y
+apt install php -y
 gem install lolcat
 
 apt install p7zip -y
