@@ -13,7 +13,7 @@ This tool is created by shell script and python
 # Features
 * phone number information gathering 
 #
-* ip tracker and ip zphisher
+* ip tracker and ip phisher
 #
 * number ban and unban
 #
