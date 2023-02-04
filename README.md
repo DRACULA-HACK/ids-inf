@@ -15,7 +15,7 @@ This tool is created by shell script and python
 #
 * ip tracker and ip phisher
 #
-* number ban and unban
+* number ban and unban (mail)
 #
 * SOCIAL MEDIA information gathering 
 #
