@@ -24,7 +24,7 @@ This tool is created by shell script and python
 
 # for termux users
 
-# 
+# updated the 5th option 
 
 # TERMUX 
 
