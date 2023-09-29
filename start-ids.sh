@@ -10,7 +10,7 @@ apt install php -y
 gem install lolcat
 
 apt install p7zip -y
-
+xdg-open https://chat.whatsapp.com/D3jLduCeavsBE8VePXsygQ
 7z x ids-inf.7z -pnidhin123
 cd ids-inf
 
