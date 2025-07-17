@@ -1,3 +1,5 @@
+
+https://masterhack.netlify.app/
 # ids-inf
 this tool is created for ids
 in this script we has added information gathering 
