@@ -76,7 +76,7 @@ after extracting the files you can run `ids.sh`
 <a href="https://m.youtube.com/channel/UCcuJQhSiU80wigeMyHu9r_g">YOU TUBE </a>
 #
 # WHATSAPP
-<a href="https://wa.me//+919074882017">WHATSAPP </a>
+<a href="https://wa.me//+919187514600">WHATSAPP </a>
 #
 created 
 by 
